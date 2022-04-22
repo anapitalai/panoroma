@@ -1,0 +1,1 @@
+python3 generate.py -n /usr/bin/nona 26.jpg --haov 360 --vaov 180
